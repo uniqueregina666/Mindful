@@ -1,0 +1,48 @@
+body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: 'Mukta Malar', sans-serif;
+  background: url("http://static.showit.co/1600/nASPc4TvSmS39MhmIIC0Mw/59432/mint_watercolor_wallpaper_pixejoo.jpg");
+  background-repeat: repeat;
+  background-size: contain, cover;
+}
+.jumbotron {
+ 
+  background: url("src/images/guidance.png");
+  background-position: center;
+  background-size: 100%;
+}
+
+#contain{
+  opacity: 0.2;
+  color: #fff;
+  background: #000; 
+}
+
+body .pregnancy, .Depression {
+      list-style-position: inside;
+      font-size: 150%
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  font-size: 150%
+}
+#size {
+  height: 40px; 
+  width: 200px
+}
+#basecolor {
+  background-color: #2C7170;
+}
+footer {
+  left: 0;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+  overflow: hidden;
+}
+

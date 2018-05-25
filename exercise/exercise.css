@@ -1,0 +1,30 @@
+body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: 'Mukta Malar, sans-serif';
+  background-color: #e8ffe5;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  color: #4CA47B;
+}
+#size {
+  height: 40px; 
+  width: 200px
+}
+#basecolor {
+  background-color: #2C7170;
+}
+
+h2 {
+  color:#68A588;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  height:400px;
+  width:400px;
+}

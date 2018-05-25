@@ -1,0 +1,42 @@
+#bootstrap-overrides {
+  padding-top: 80px;
+  text-align: center;
+  font-family: 'Mukta Malar', sans-serif;
+
+}
+#bootstrap-overrides h1 {
+    color: white;
+    text-align: center;
+}
+body { 
+  background:  url(https://data.whicdn.com/images/259160022/original.gif) no-repeat center center fixed; 
+  background-size: cover;
+}
+
+p {
+    font-family: verdana;
+    font-size: 145px;
+}
+
+#size {
+    height: 40px; 
+    width: 200px
+  }
+  #basecolor {
+    background-color: #2C7170;
+  }
+
+  .jumbotron {
+ 
+    background: url("../public/assets/images/words.png");
+    background-position: center;
+    background-size: 100%;
+  }
+  footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+  }

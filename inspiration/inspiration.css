@@ -1,0 +1,29 @@
+body {
+  padding-top: 200px;
+  text-align: center;
+  font-family: 'Mukta Malar', sans-serif;
+  background: url("../public/assets/images/dream.jpg") center center no-repeat scroll;
+}
+
+#size {
+  height: 40px; 
+  width: 200px
+}
+#basecolor {
+  background-color: #2C7170;
+}
+
+#quotes {
+    font-size: 50px;
+    color: aliceblue;
+
+}
+
+  footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}
